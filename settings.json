@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "appliedconsider.minefort.com",
-    "port": 25565,
+    "ip": "minecraft0192.aternos.me",
+    "port": 11390,
     "version": "",
     "try-creative": false
   },
